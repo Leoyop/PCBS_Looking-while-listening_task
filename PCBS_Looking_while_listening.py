@@ -1,4 +1,4 @@
-
+# This program runs only with the two folders 'sounds' and 'pictures' containing the audio and visual stimuli for the experiment
 import os
 import expyriment
 from random import randint
